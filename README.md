@@ -1,20 +1,5 @@
 My Travel App
 
-Danışman: @keyvanarasteh
-
-https://github.com/keyvanarasteh
-
-Ders: İleri Mobil Programlama
-
-Öğrenci: Daniel Akbulut
-Öğrenci No: 221216080 Section 1
-
-Öğrenci: Beyza Kaya
-Öğrenci No: 221216092 Section 1
-
-Öğrenci: Halime Taşkın
-Öğrenci No: 222016740 Section 51
-
 
 <img width="389" alt="Ekran Resmi 2024-06-10 15 25 05" src="https://github.com/danielakbulut/final_sinav_/assets/152086868/19692919-1928-4f1d-ae81-52c63485a962">
 
